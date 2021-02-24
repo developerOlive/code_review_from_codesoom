@@ -4,6 +4,7 @@
 
 
 ### 👉🏻👉🏻 [1주차 코드리뷰](https://github.com/CodeSoom/spring-week1-assignment-1/pull/9)
+### 👉🏻👉🏻 [1주차 회고록] (https://domean.tistory.com/181)
 
 
 ![image](https://user-images.githubusercontent.com/67456294/107159249-351be000-69d2-11eb-8ab3-2dc163b59180.png)
