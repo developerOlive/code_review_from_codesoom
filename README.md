@@ -8,7 +8,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/67456294/107159249-351be000-69d2-11eb-8ab3-2dc163b59180.png)
-
+-------------------------------------------------------------------------------------------------------
 ### 👉🏻👉🏻 [2주차 코드리뷰](https://github.com/CodeSoom/spring-week2-assignment-1/pull/2)
 
 ![image](https://user-images.githubusercontent.com/67456294/107159300-62688e00-69d2-11eb-894c-4ca9a7738f64.png)
