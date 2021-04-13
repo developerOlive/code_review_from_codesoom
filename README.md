@@ -38,3 +38,18 @@
 
 ### 👉🏻👉🏻 [6주차 코드리뷰](https://github.com/CodeSoom/spring-week6-assignment-1/pull/14)
 ### 👉🏻👉🏻 [6주차 회고록](https://domean.tistory.com/207)
+![image](https://user-images.githubusercontent.com/67456294/114510909-2ff93c80-9c72-11eb-8b74-33404d11f574.png)
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+### 👉🏻👉🏻 [7주차 코드리뷰](github.com/CodeSoom/spring-week7-assignment-1/pull/7)
+### 👉🏻👉🏻 [7주차 회고록](https://domean.tistory.com/211)
+![image](https://user-images.githubusercontent.com/67456294/114510938-3c7d9500-9c72-11eb-8962-d2beeccbd073.png)
+
+---------------------------------------------------------------------------------------------------------------------
+
+### 👉🏻👉🏻 [8주차 코드리뷰](github.com/CodeSoom/spring-week8-assignment-1/pull/8)
+### 👉🏻👉🏻 [8주차 회고록](https://domean.tistory.com/214)
+![image](https://user-images.githubusercontent.com/67456294/114510963-4606fd00-9c72-11eb-87f2-c4ce3e21b3a8.png)
+
